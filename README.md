@@ -10,7 +10,8 @@
 
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
 - ❤️ Apaixonado por Front-End;
-- 🌱 Estudando React.js com TypeScript 
+- 🌱 Estudando React.js com TypeScript
+- 😊 Criador da página do instagram @grijp.js 
 
  <div>
   <a href="https://github.com/JeanGrijp">
