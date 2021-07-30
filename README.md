@@ -12,6 +12,8 @@
 - ❤️ Apaixonado por Front-End;
 - 🌱 Estudando React.js com TypeScript
 - 😊 Criador da página do instagram @grijp.js 
+- 🧩 Amo resolver desafios
+- 🎸 Amo tocar violão
 
  <div>
   <a href="https://github.com/JeanGrijp">
