@@ -13,6 +13,7 @@
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
 - ❤️ Apaixonado por Front-End;
 - 🌱 Estudando React.js com TypeScript
+- 👨‍🏫 Compartilhar conhecimento
 - 😊 Criador da página do instagram @grijp.js 
 - 🧩 Amo resolver desafios
 - 🎸 Amo tocar violão
