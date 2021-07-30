@@ -1,13 +1,18 @@
 ### Olá, me chamo Jean Grijp 👋
-<img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
 
-- 👨‍🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
+<img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
+<img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
+<img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
+
+- 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
+- ❤️ Apaixonado por Front-End;
 - 🌱 Estudando React.js com TypeScript 
 
  <div>
   <a href="https://github.com/JeanGrijp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanGrijp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGrijp&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em src="https://starchart.cc/JeanGrijp/JeanGrijp.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
