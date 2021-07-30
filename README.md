@@ -1,8 +1,14 @@
 ### Olá, me chamo Jean Grijp 👋
+<div style="display: inline_block">
+ <img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
+ <img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
+ <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+ <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
+ <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+ <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+ <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
-<img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
-<img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
 
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
 - ❤️ Apaixonado por Front-End;
@@ -15,6 +21,7 @@
    <img height="180em src="https://starchart.cc/JeanGrijp/JeanGrijp.svg"/>
 </div>
 
+                                                      
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,6 +30,7 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+
 </div>
 
   
