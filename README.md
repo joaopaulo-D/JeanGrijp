@@ -2,11 +2,9 @@
 <div style="display: inline_block">
  <img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
  <img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=social&label=Follow&maxAge=2592000"/>
- <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
- <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
- <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+  <img height="20px" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </div>
 
 
