@@ -16,7 +16,6 @@
   <a href="https://github.com/JeanGrijp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanGrijp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGrijp&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="180em src="https://starchart.cc/JeanGrijp/JeanGrijp.svg"/>
 </div>
 
                                                       
@@ -36,7 +35,7 @@
 
 <div> 
   <a href="https://www.instagram.com/grijp.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://pt.stackoverflow.com/users/130136/jean-grijp" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
+   <a href="https://pt.stackoverflow.com/users/130136/jean-grijp" target="_blank"><img height="28px" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
   <a href = "mailto:jgg2@cin.ufpe.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/jeangrijp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
