@@ -37,7 +37,7 @@
 <div> 
   <a href="https://www.instagram.com/grijp.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://pt.stackoverflow.com/users/130136/jean-grijp" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jgg2@cin.ufpe.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/jeangrijp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/JeanGrijp/JeanGrijp/blob/output/github-contribution-grid-snake.svg)
