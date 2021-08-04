@@ -11,7 +11,7 @@
 
 
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
-- 👨‍💻 Desenvolvedor Júnior na Stefanini
+- 👨‍💻 Desenvolvedor Júnior na Stefanini;
 - ❤️ Apaixonado por Front-End;
 - 🌱 Estudando React.js com TypeScript
 - 👨‍🏫 Compartilhar conhecimento
