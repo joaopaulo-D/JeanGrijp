@@ -12,9 +12,9 @@
 
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
 - 👨‍💻 Desenvolvedor Júnior na Stefanini;
+- 👨‍🏫 Monitor de engenharia de software - IF977
 - ❤️ Apaixonado por Front-End;
 - 🌱 Estudando React.js com TypeScript
-- 👨‍🏫 Compartilhar conhecimento
 - 😊 Criador da página do instagram @grijp.js 
 - 🧩 Amo resolver desafios
 - 🎸 Amo tocar violão
